@@ -1,0 +1,1 @@
+# Uses Python standard library only; no pip install required.
